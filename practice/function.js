@@ -1,3 +1,3 @@
 function namedFunction (){
-    console.log('thisi a named function');
+    console.log('this is a named function');
 }
